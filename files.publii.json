@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f426490ad1c2015cc788711ddd39a9f0"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "46231adb8a9b30eeacb71ff0a75bc39b"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "a1e0024b4ac0352f1db047fdccb2e202"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "8cdc75e6d9a6b1fdd8b488e107eafc61"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4c1c748d0e7417b4967169c3251e4f75"
+    },
+    {
+        "path": "learn-quran-online-academy-the-perfect-platform-to-master-quran-recitation-and-tajweed",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-the-perfect-platform-to-master-quran-recitation-and-tajweed/index.html",
+        "type": "file",
+        "md5": "2864e520baa2031a2c2be7f628ad0dad"
+    },
+    {
+        "path": "learn-quran-online-academy-your-gateway-to-authentic-quran-learning-in-the-digital-age",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-your-gateway-to-authentic-quran-learning-in-the-digital-age/index.html",
+        "type": "file",
+        "md5": "028e4d8da2c6386fcfa8608308a2e4e9"
+    },
+    {
+        "path": "learn-quran-online-academy-your-trusted-path-to-skilled-recitation-and-authentic-tajweed",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-academy-your-trusted-path-to-skilled-recitation-and-authentic-tajweed/index.html",
+        "type": "file",
+        "md5": "1902f9b69a4373eed032989fbbf8fc72"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-16.jfif",
+        "type": "file",
+        "md5": "8b0254dee6ebfb74e4962bec8ab6804d"
+    },
+    {
+        "path": "quran-recitation-classes-online-a-modern-path-to-mastering-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-recitation-classes-online-a-modern-path-to-mastering-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "bc4b602f2431e39942ad5d0a54656e33"
+    },
+    {
+        "path": "quran-recitation-classes-online-your-practical-path-to-learning-correct-tajweed-and-fluent-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-recitation-classes-online-your-practical-path-to-learning-correct-tajweed-and-fluent-recitation/index.html",
+        "type": "file",
+        "md5": "870c5fa39cd3cbdafd125422f45223f7"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "6c963ba2dc61edee95f9b86f27e910a7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c998a9c773d75dea7dd4dd00cf8c71cd"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0f8482d805899f92f142b9c194c0243d"
+    }
+]
